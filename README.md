@@ -1,0 +1,4 @@
+scalaexercises
+==============
+
+Scala exercises
